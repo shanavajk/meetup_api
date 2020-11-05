@@ -7,7 +7,7 @@ DB is also present in root directory
 User Name : admin@gmail.com	
 Password  : admin2020
 
-Use http://{host}/register URI to create new admin (it's hidden)
+Use http://{host}/register URI to create new admin (URI it's hidden)
 
 
 
